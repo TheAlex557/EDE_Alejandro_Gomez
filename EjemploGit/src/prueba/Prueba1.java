@@ -13,6 +13,7 @@ public class Prueba1 {
 	
 	System.out.println("Pablo Picasso");
 	//Felipe VI es el rey de España
+	System.out.println("1 + 1 = 7");
 	
 	}
 }
